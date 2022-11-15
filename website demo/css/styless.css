@@ -1,0 +1,124 @@
+.background1{
+  background-color: #222831;
+  padding-top: 14rem;
+  padding-left: 7rem;
+  padding-bottom: 20rem;
+  background-image: -webkit-linear-gradient(65deg, #222831 50%, #393E46 50%);
+
+}
+
+body {
+  margin: 0;
+}
+
+.topText {
+  text-align: left;
+}
+
+.Webfont {
+  font-size: 5rem;
+}
+
+.topimg{
+
+  margin-left: 53rem;
+  margin-bottom: 15rem;
+  width: 50%;
+  height: 50%;
+}
+
+.mid {
+height: 100px;
+}
+
+section{
+  position: relative;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  height: 400px;
+  width: 1200px;
+  background #f00;
+  margin-top:30rem;
+  box-shadow: 0 25px 30px rgba(0,0,0,.5);
+  display: flex;
+}
+
+
+
+.featured{
+  width: 50%;
+  height: 100%;
+  background: #393E46;
+  box-sizing: border-box;
+}
+
+.imagebox{
+  width: calc(50% + 6.25rem);
+  height: 100%;
+  background: #f00;
+  box-sizing: border-box;
+  border-left: 6.25rem solid #393E46;
+  border-bottom: 25rem solid transparent;
+  background: url(images.jpg)
+}
+
+.featuredbottom{
+  width: 50%;
+  height: 100%;
+  background: #393E46;
+  box-sizing: border-box;
+}
+
+.imageboxbottom{
+  width: calc(50% + 6.25rem);
+  height: 100%;
+  background: #f00;
+  box-sizing: border-box;
+  border-left: 6.25rem solid #393E46;
+  border-bottom: 25rem solid transparent;
+  background: url(images.jpg)
+}
+
+.white {
+  color: white;
+}
+
+.d-block {
+  height: 300;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.footer {
+  text-align: center;
+  font-family: "silkscreen", cursive;
+  background-color: #00ADB5;
+}
+
+.icon {
+  padding-right: 35px;
+}
+
+.carbackground {
+  background-color: #393E46;
+}
+
+.salestext {
+  font-family: "silkscreen", cursive;
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-top: 10rem;
+}
+
+.textboxtext {
+  text-align: center;
+  margin-top: 6rem;
+  font-size: 3rem;
+}
+
+.custonbutton {
+  margin-left: 50px;
+}
